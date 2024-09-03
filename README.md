@@ -87,4 +87,4 @@ Managed features and bug fixes for the Bayad App and handled specific parts of t
 - Coursera/Data Analytics Google Professional Certificate (12/2022)
 - PhilNITS Certification: IT Passport Certification Examination (04/2014)
 
-- [Personal Blog] (https://medium.com/@dabryan.devopstechnologiesph)
+- [Personal Blog](https://medium.com/@dabryan.devopstechnologiesph)
