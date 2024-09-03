@@ -55,6 +55,7 @@
 ## Projects
 ### Project Shipping Recommender
 Developed a Fast API backend application utilizing Facebook's FAISS library for text similarity in recommending shipping prices.
+![image](/assets/img/freelance_1_cover.png)
 
 ### Project: GPT AI Engineer
 Created a dynamic web platform with AI integration into company communication channels such as Discord and Microsoft Teams.
