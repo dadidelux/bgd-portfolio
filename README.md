@@ -14,12 +14,10 @@ insightful instruction positions me to contribute meaningfully to cutting-edge p
 systems in the business sector.
 
 ## Education
-| Degree                                   | Institution                                   | Date         |
-|------------------------------------------|----------------------------------------------|--------------|
-| Ph.D., Information Technology            | Selinus University of Science and Literature | Sept-2024    |
-| Ph.D., Computer Science                  | De La Salle University                       | Jan-2023     |
-| Master in Information Technology         | Technological Institute of the Philippines   | Mar-2012     |
-| B.S., Computer Science                   | Technological Institute of the Philippines   | Mar-2009     |
+- Ph.D., Information Technology | Selinus University of Science and Literature  (_Sept-2024_)  
+- Ph.D., Computer Science | De La Salle University (_Jan-2023_)  
+- Master in, Information Technology | Technological Institute of the Philippines (_Mar-2012_)  
+- B.S., Computer Science | Technological Institute of the Philippines (_Mar-2009_)  
 
 
 ## Work Experience
