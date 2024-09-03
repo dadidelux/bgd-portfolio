@@ -47,7 +47,7 @@
 - Provided guidance in Data Modeling and Advanced SQL Queries.
 - Conducted weekend sessions for international students.
 
-**DICT Professional Trainer (Seasonal) @ ICT Literacy and Competency Development Bureau (_November 2022 - Present_)**
+**DICT Professional Trainer (Seasonal) @ ICT Literacy and Competency Development Bureau (_November 2022 - November 2023_)**
 - Provided Web Development with Analytics Training using Django Web Framework.
   
 **Associate Faculty Level 4 @ Technological Institute of the Philippines (_June 2009 - July 2023_)**
