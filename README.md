@@ -75,6 +75,7 @@ Managed features and bug fixes for the Bayad App and handled specific parts of t
 
 ## Talks & Lectures
 - - working on it
+- [Data Science YouTube](https://www.youtube.com/@dataanalysiscourse785)
 
 ## Publications [Google Scholar]([http://example.com](https://scholar.google.com.ph/citations?user=-RMIOAYAAAAJ&hl=en))
 1. Bondoc, E. R. P., Dadiz, B., Aranas, J. (2023). NLP-based malicious destruction recognition on web-based online articles using machine learning. 2023 10th International Conference on ICT for Smart Society (ICISS). doi: 10.1109/ICISS59129.2023.10291886
@@ -85,3 +86,5 @@ Managed features and bug fixes for the Bayad App and handled specific parts of t
 - Docker for Developer – Linkedin Learning (04/2024)
 - Coursera/Data Analytics Google Professional Certificate (12/2022)
 - PhilNITS Certification: IT Passport Certification Examination (04/2014)
+
+- [Personal Blog] (https://medium.com/@dabryan.devopstechnologiesph)
