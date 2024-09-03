@@ -1,6 +1,6 @@
 # Data Scientist and Machine Learning Engineer
 
-#### Technical Skills: Python, SQL, Azure, PostgreSQL, Streamlit, Django, MATLAB, Power BI, Tableau, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, Azure, PostgreSQL, Streamlit, Django, MATLAB, Power BI, Tableau, AWS, Clickhouse, MATLAB
 
 ## Profile
 As a Data Scientist and Machine Learning Engineer, my professional ethos is anchored in leveraging analytical prowess to drive data-driven decisions and innovation. My industry experience is highlighted by my adeptness in developing AI-infused web platforms that streamline organizational communication and enhance collaborative workflows. In the realm of data engineering, I've delivered comprehensive analyses and automated processes that optimize e-commerce operations and SEO strategies, utilizing state-of-the-art tools such as Azure and PostgreSQL, Python, and many more. My practical expertise is complemented by experience in IT education, equipping me with the unique ability to distill complex technical concepts into actionable insights. This fusion of hands-on development and insightful instruction positions me to contribute meaningfully to cutting-edge projects and the evolution of intelligent systems in the business sector.
@@ -10,13 +10,13 @@ As a Data Scientist and Machine Learning Engineer, my professional ethos is anch
   - Research focused on detecting depression in videos using uniform local binary pattern (ULBP) on facial features, achieving 93% accuracy. Published in SCOPUS.
 - Ph.D., Computer Science | De La Salle University (2023)  
   - Research focused on detecting depression in videos using uniform local binary pattern (ULBP) on facial features, achieving 93% accuracy. Published in SCOPUS.
-- M.S., Information Technology | Technological Institute of the Philippines (_Mar-2012_)  
+- Master in, Information Technology | Technological Institute of the Philippines (_Mar-2012_)  
   - Capstone: AVIPRES - An innovative animated video creator application designed for smartphones.
 - B.S., Computer Science | Technological Institute of the Philippines (_Mar-2009_)  
   - Thesis: Comparative analysis of Boyer Moore Horspool and Boyer Moore Sunday algorithms in text search.
 
 ## Work Experience
-**AI Engineer @ CPRAS (Contract) (_July 2022 - Present_)**
+**AI Engineer @ CPRAS (Individual Contractor) (_July 2022 - Sept 2024_)**
 - Developed OpenAI integration for enhanced information retrieval and interaction.
 - Implemented GPT-4 models to elevate language processing and understanding in various applications.
 - Developed a Retrieval Augmented Generation AI tool for UK environment councils.
@@ -32,7 +32,7 @@ As a Data Scientist and Machine Learning Engineer, my professional ethos is anch
 - Conducted EDA and ETL process optimization.
 - Tools: Python, Streamlit, Postgres SQL, Django, Machine Learning.
 
-**Data Specialist @ Kidzapp (Contract) (_June 2023 - March 2024_)**
+**Data Specialist @ Kidzapp (Freelance Contract) (_June 2023 - March 2024_)**
 - Developed automation solutions using Streamlit for dynamic dashboards.
 - Engineered Python automation scripts for weekly report generation.
 - Tools: Python, Streamlit, Postgres SQL, Django, matplotlib.
@@ -75,8 +75,7 @@ Conducted research and implemented a time series prediction model for marketing 
 Managed features and bug fixes for the Bayad App and handled specific parts of the Admin Panel.
 
 ## Talks & Lectures
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
+- Underdevelopemnent
 
 ## Publications [Link Text]([http://example.com](https://scholar.google.com.ph/citations?user=-RMIOAYAAAAJ&hl=en))
 1. Bondoc, E. R. P., Dadiz, B., Aranas, J. (2023). NLP-based malicious destruction recognition on web-based online articles using machine learning. 2023 10th International Conference on ICT for Smart Society (ICISS). doi: 10.1109/ICISS59129.2023.10291886
@@ -85,5 +84,5 @@ Managed features and bug fixes for the Bayad App and handled specific parts of t
 ## Certifications
 - Hacker Rank Skill Certificate – Python Basic (04/2024)
 - Docker for Developer – Linkedin Learning (04/2024)
-- Coursera/Google Professional Certificate (12/2022)
+- Coursera/Data Analytics Google Professional Certificate (12/2022)
 - PhilNITS Certification: IT Passport Certification Examination (04/2014)
