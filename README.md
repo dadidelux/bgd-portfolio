@@ -7,7 +7,7 @@ As a Data Scientist and Machine Learning Engineer, my professional ethos is anch
 
 ## Education
 - Ph.D., Information Technology | Selinus University of Science and Literature  (_Sept-2024_)  
-  - Research focused on detecting depression in videos using uniform local binary pattern (ULBP) on facial features, achieving 93% accuracy. Published in SCOPUS.
+  - Dissertation: DESIGN AND IMPLEMENTATION OF BIG DATA AND ANALYTICS TO ENHANCE DYNAMIC PRICE COMPARISON ANALYTICS OF AN E-COMMERCE ENTERPRISE COMPANY IN AUSTRALIA.
 - Ph.D., Computer Science | De La Salle University (2023)  
   - Research focused on detecting depression in videos using uniform local binary pattern (ULBP) on facial features, achieving 93% accuracy. Published in SCOPUS.
 - Master in, Information Technology | Technological Institute of the Philippines (_Mar-2012_)  
