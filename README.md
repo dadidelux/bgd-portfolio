@@ -31,6 +31,14 @@
 - Engineered Python automation scripts for weekly report generation.
 - Tools: Python, Streamlit, Postgres SQL, Django, matplotlib.
 
+**Data Analytics Consultant @ DevOpstechnologiesPh (_October 2022 - November 2023_)**
+- Provided consultancy on DevOps production technologies and dashboard design.
+- Conducted EDA and ETL process optimization.
+
+**Web Developer (Contract) @ AskTheDragon.com (_October 2019 - February 2020_)**
+- Developed a Computational Thinking Education website with LMS capabilities using Django.
+
+## Educator Experience
 **Adjunct Data Science Specialist Instructor @ CIIT College of Arts and Technology Inc. (_January 2023 - January 2024_)**
 - Delivered high-quality educational content in Data Science.
 - Conducted mentoring, doubt sessions, and course management via Lyon LMS.
@@ -39,16 +47,9 @@
 - Provided guidance in Data Modeling and Advanced SQL Queries.
 - Conducted weekend sessions for international students.
 
-**Data Analytics Consultant @ DevOpstechnologiesPh (_October 2022 - November 2023_)**
-- Provided consultancy on DevOps production technologies and dashboard design.
-- Conducted EDA and ETL process optimization.
-
 **DICT Professional Trainer (Seasonal) @ ICT Literacy and Competency Development Bureau (_November 2022 - Present_)**
 - Provided Web Development with Analytics Training using Django Web Framework.
-
-**Web Developer (Contract) @ AskTheDragon.com (_October 2019 - February 2020_)**
-- Developed a Computational Thinking Education website with LMS capabilities using Django.
-
+  
 **Associate Faculty Level 4 @ Technological Institute of the Philippines (_June 2009 - July 2023_)**
 - Taught Computer Science courses related to Data Science, using tools like Java, HTML, CSS, JavaScript, Python, SQL, Excel, and Power BI.
 
