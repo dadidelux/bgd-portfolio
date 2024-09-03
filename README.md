@@ -15,13 +15,9 @@ systems in the business sector.
 
 ## Education
 - Ph.D., Information Technology | Selinus University of Science and Literature  (_Sept-2024_)  
-  - Dissertation: DESIGN AND IMPLEMENTATION OF BIG DATA AND ANALYTICS TO ENHANCE DYNAMIC PRICE COMPARISON ANALYTICS OF AN E-COMMERCE ENTERPRISE COMPANY IN AUSTRALIA.
-- Ph.D., Computer Science | De La Salle University (2023)  
-  - Research focused on detecting depression in videos using uniform local binary pattern (ULBP) on facial features, achieving 93% accuracy. Published in SCOPUS.
+- Ph.D., Computer Science | De La Salle University (_Jan-2023_)  
 - Master in, Information Technology | Technological Institute of the Philippines (_Mar-2012_)  
-  - Capstone: AVIPRES - An innovative animated video creator application designed for smartphones.
 - B.S., Computer Science | Technological Institute of the Philippines (_Mar-2009_)  
-  - Thesis: Comparative analysis of Boyer Moore Horspool and Boyer Moore Sunday algorithms in text search.
 
 ## Work Experience
 **AI Engineer @ CPRAS (Individual Contractor) (_July 2022 - Sept 2024_)**
