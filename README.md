@@ -1,55 +1,87 @@
-# Data Scientist
+# Data Scientist and Machine Learning Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, Azure, PostgreSQL, Streamlit, Django, MATLAB, Power BI, Tableau, AWS, Snowflake, MATLAB
+
+## Profile
+As a Data Scientist and Machine Learning Engineer, my professional ethos is anchored in leveraging analytical prowess to drive data-driven decisions and innovation. My industry experience is highlighted by my adeptness in developing AI-infused web platforms that streamline organizational communication and enhance collaborative workflows. In the realm of data engineering, I've delivered comprehensive analyses and automated processes that optimize e-commerce operations and SEO strategies, utilizing state-of-the-art tools such as Azure and PostgreSQL, Python, and many more. My practical expertise is complemented by experience in IT education, equipping me with the unique ability to distill complex technical concepts into actionable insights. This fusion of hands-on development and insightful instruction positions me to contribute meaningfully to cutting-edge projects and the evolution of intelligent systems in the business sector.
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., Computer Science | De La Salle University (_2023_)  
+  - Research focused on detecting depression in videos using uniform local binary pattern (ULBP) on facial features, achieving 93% accuracy. Published in SCOPUS.
+- M.S., Information Technology | Technological Institute of the Philippines (_Date Not Provided_)  
+  - Capstone: AVIPRES - An innovative animated video creator application designed for smartphones.
+- B.S., Computer Science | Technological Institute of the Philippines (_Date Not Provided_)  
+  - Thesis: Comparative analysis of Boyer Moore Horspool and Boyer Moore Sunday algorithms in text search.
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**AI Engineer @ CPRAS (Contract) (_July 2022 - Present_)**
+- Developed OpenAI integration for enhanced information retrieval and interaction.
+- Implemented GPT-4 models to elevate language processing and understanding in various applications.
+- Developed a Retrieval Augmented Generation AI tool for UK environment councils.
+- Tools: Django Framework, Pinecone Vector Database, OpenAI Models, Python.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Analyst @ Hearns Hobbies (_November 2022 - February 2024_)**
+- Conducted in-depth analysis, report design, and ETL processes for product price analysis.
+- Provided actionable recommendations to optimize business strategies.
+- Tools: Python, Azure Functions, Azure Web Service, Microsoft SQL, ETL, Selenium, Scrapy.
+
+**Data Science Developer @ Scrapwave/Viseon/Super Apps LTD (Part-time) (_June 2023 - March 2024_)**
+- Provided consultancy on DevOps production technologies and dashboard design.
+- Conducted EDA and ETL process optimization.
+- Tools: Python, Streamlit, Postgres SQL, Django, Machine Learning.
+
+**Data Specialist @ Kidzapp (Contract) (_June 2023 - March 2024_)**
+- Developed automation solutions using Streamlit for dynamic dashboards.
+- Engineered Python automation scripts for weekly report generation.
+- Tools: Python, Streamlit, Postgres SQL, Django, matplotlib.
+
+**Adjunct Data Science Specialist Instructor @ CIIT College of Arts and Technology Inc. (_January 2023 - January 2024_)**
+- Delivered high-quality educational content in Data Science.
+- Conducted mentoring, doubt sessions, and course management via Lyon LMS.
+
+**Adjunct Faculty in Data Analytics @ Upgrad (Remote) (_January 2023 - September 2023_)**
+- Provided guidance in Data Modeling and Advanced SQL Queries.
+- Conducted weekend sessions for international students.
+
+**Data Analytics Consultant @ DevOpstechnologiesPh (_October 2022 - November 2023_)**
+- Provided consultancy on DevOps production technologies and dashboard design.
+- Conducted EDA and ETL process optimization.
+
+**DICT Professional Trainer (Seasonal) @ ICT Literacy and Competency Development Bureau (_November 2022 - Present_)**
+- Provided Web Development with Analytics Training using Django Web Framework.
+
+**Web Developer (Contract) @ AskTheDragon.com (_October 2019 - February 2020_)**
+- Developed a Computational Thinking Education website with LMS capabilities using Django.
+
+**Associate Faculty Level 4 @ Technological Institute of the Philippines (_June 2009 - July 2023_)**
+- Taught Computer Science courses related to Data Science, using tools like Java, HTML, CSS, JavaScript, Python, SQL, Excel, and Power BI.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Project Shipping Recommender
+Developed a Fast API backend application utilizing Facebook's FAISS library for text similarity in recommending shipping prices.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+### Project: GPT AI Engineer
+Created a dynamic web platform with AI integration into company communication channels such as Discord and Microsoft Teams.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### Project: Data Engineering - Melbourne, Australia (Remote)
+Developed a web scraping script for product price comparison analysis and automated SEO improvement using AI.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Project: Analytics Dashboard (Kids Activities eCommerce)
+Conducted research and implemented a time series prediction model for marketing opportunities and product performance trends.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
+### Project: Python Backend Developer (Contract)
+Managed features and bug fixes for the Bayad App and handled specific parts of the Admin Panel.
 
 ## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
 - A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+1. Bondoc, E. R. P., Dadiz, B., Aranas, J. (2023). NLP-based malicious destruction recognition on web-based online articles using machine learning. 2023 10th International Conference on ICT for Smart Society (ICISS). doi: 10.1109/ICISS59129.2023.10291886
+2. Regla, A. I., Dadiz, B. G. (2023). A Convolutional Neural Network Study on Depression and Eye Blink Analysis. International Journal of Innovative Technology and Exploring Engineering (IJITEE), Volume-12 Issue-5, April 2023. doi. 10.35940/ijitee.I7540.0881019
 
-- [Data Science Blog](https://medium.com/@shawhin)
+## Certifications
+- Hacker Rank Skill Certificate – Python Basic (04/2024)
+- Docker for Developer – Linkedin Learning (04/2024)
+- Coursera/Google Professional Certificate (12/2022)
+- PhilNITS Certification: IT Passport Certification Examination (04/2014)
