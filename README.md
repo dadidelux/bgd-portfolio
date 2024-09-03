@@ -74,7 +74,7 @@ Conducted research and implemented a time series prediction model for marketing 
 Managed features and bug fixes for the Bayad App and handled specific parts of the Admin Panel.
 
 ## Talks & Lectures
-- Underdevelopemnent
+- - working on it
 
 ## Publications [Google Scholar]([http://example.com](https://scholar.google.com.ph/citations?user=-RMIOAYAAAAJ&hl=en))
 1. Bondoc, E. R. P., Dadiz, B., Aranas, J. (2023). NLP-based malicious destruction recognition on web-based online articles using machine learning. 2023 10th International Conference on ICT for Smart Society (ICISS). doi: 10.1109/ICISS59129.2023.10291886
