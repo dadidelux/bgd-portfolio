@@ -3,7 +3,15 @@
 #### Technical Skills: Python, SQL, Azure, PostgreSQL, Streamlit, Django, MATLAB, Power BI, Tableau, AWS, Clickhouse, MATLAB
 
 ## Profile
-As a Data Scientist and Machine Learning Engineer, my professional ethos is anchored in leveraging analytical prowess to drive data-driven decisions and innovation. My industry experience is highlighted by my adeptness in developing AI-infused web platforms that streamline organizational communication and enhance collaborative workflows. In the realm of data engineering, I've delivered comprehensive analyses and automated processes that optimize e-commerce operations and SEO strategies, utilizing state-of-the-art tools such as Azure and PostgreSQL, Python, and many more. My practical expertise is complemented by experience in IT education, equipping me with the unique ability to distill complex technical concepts into actionable insights. This fusion of hands-on development and insightful instruction positions me to contribute meaningfully to cutting-edge projects and the evolution of intelligent systems in the business sector.
+As a Data Scientist and Machine Learning Engineer, my professional ethos is anchored in leveraging analytical
+prowess to drive data-driven decisions and innovation. My industry experience is highlighted by my adeptness in
+developing AI-infused web platforms that streamline organizational communication and enhance collaborative
+workflows. In the realm of data engineering, I've delivered comprehensive analyses and automated processes that
+optimize e-commerce operations and SEO strategies, utilizing state-of-the-art tools such as Azure and PostgreSQL,
+Python and many more. My practical expertise is complemented by experience in IT education, equipping me with the
+unique ability to distill complex technical concepts into actionable insights. This fusion of hands-on development and
+insightful instruction positions me to contribute meaningfully to cutting-edge projects and the evolution of intelligent
+systems in the business sector.
 
 ## Education
 - Ph.D., Information Technology | Selinus University of Science and Literature  (_Sept-2024_)  
