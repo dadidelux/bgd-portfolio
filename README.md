@@ -74,7 +74,7 @@ Managed features and bug fixes for the Bayad App and handled specific parts of t
 ## Talks & Lectures
 - Underdevelopemnent
 
-## Publications [Link Text]([http://example.com](https://scholar.google.com.ph/citations?user=-RMIOAYAAAAJ&hl=en))
+## Publications [Google Scholar]([http://example.com](https://scholar.google.com.ph/citations?user=-RMIOAYAAAAJ&hl=en))
 1. Bondoc, E. R. P., Dadiz, B., Aranas, J. (2023). NLP-based malicious destruction recognition on web-based online articles using machine learning. 2023 10th International Conference on ICT for Smart Society (ICISS). doi: 10.1109/ICISS59129.2023.10291886
 2. Regla, A. I., Dadiz, B. G. (2023). A Convolutional Neural Network Study on Depression and Eye Blink Analysis. International Journal of Innovative Technology and Exploring Engineering (IJITEE), Volume-12 Issue-5, April 2023. doi. 10.35940/ijitee.I7540.0881019
 
