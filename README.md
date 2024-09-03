@@ -1,6 +1,6 @@
 # Data Scientist and Machine Learning Engineer
 
-#### Technical Skills: Python, SQL, Azure, PostgreSQL, Streamlit, Django, MATLAB, Power BI, Tableau, AWS, Clickhouse, MATLAB
+#### Technical Skills: Python, SQL, Azure, PostgreSQL, Streamlit, Django, MATLAB, Power BI, Tableau, AWS, Clickhouse
 
 ## Profile
 As a Data Scientist and Machine Learning Engineer, my professional ethos is anchored in leveraging analytical
