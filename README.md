@@ -50,7 +50,7 @@
 **DICT Professional Trainer (Seasonal) @ ICT Literacy and Competency Development Bureau (_November 2022 - November 2023_)**
 - Provided Web Development with Analytics Training using Django Web Framework.
   
-**Associate Faculty Level 4 @ Technological Institute of the Philippines (_June 2009 - July 2023_)**
+**Associate Faculty Level 4 @ Technological Institute of the Philippines (_June 2009 - August 2024_)**
 - Taught Computer Science courses related to Data Science, using tools like Java, HTML, CSS, JavaScript, Python, SQL, Excel, and Power BI.
 
 ## Projects
