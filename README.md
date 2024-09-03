@@ -6,11 +6,13 @@
 As a Data Scientist and Machine Learning Engineer, my professional ethos is anchored in leveraging analytical prowess to drive data-driven decisions and innovation. My industry experience is highlighted by my adeptness in developing AI-infused web platforms that streamline organizational communication and enhance collaborative workflows. In the realm of data engineering, I've delivered comprehensive analyses and automated processes that optimize e-commerce operations and SEO strategies, utilizing state-of-the-art tools such as Azure and PostgreSQL, Python, and many more. My practical expertise is complemented by experience in IT education, equipping me with the unique ability to distill complex technical concepts into actionable insights. This fusion of hands-on development and insightful instruction positions me to contribute meaningfully to cutting-edge projects and the evolution of intelligent systems in the business sector.
 
 ## Education
-- Ph.D., Computer Science | De La Salle University (_2023_)  
+- Ph.D., Information Technology | Selinus University of Science and Literature  (_Sept-2024_)  
   - Research focused on detecting depression in videos using uniform local binary pattern (ULBP) on facial features, achieving 93% accuracy. Published in SCOPUS.
-- M.S., Information Technology | Technological Institute of the Philippines (_Date Not Provided_)  
+- Ph.D., Computer Science | De La Salle University (2023)  
+  - Research focused on detecting depression in videos using uniform local binary pattern (ULBP) on facial features, achieving 93% accuracy. Published in SCOPUS.
+- M.S., Information Technology | Technological Institute of the Philippines (_Mar-2012_)  
   - Capstone: AVIPRES - An innovative animated video creator application designed for smartphones.
-- B.S., Computer Science | Technological Institute of the Philippines (_Date Not Provided_)  
+- B.S., Computer Science | Technological Institute of the Philippines (_Mar-2009_)  
   - Thesis: Comparative analysis of Boyer Moore Horspool and Boyer Moore Sunday algorithms in text search.
 
 ## Work Experience
