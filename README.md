@@ -58,6 +58,9 @@ Developed a Fast API backend application utilizing Facebook's FAISS library for 
 
 ### Project: GPT AI Engineer
 Created a dynamic web platform with AI integration into company communication channels such as Discord and Microsoft Teams.
+![image](/assets/img/hq_cover.png)
+![image](/assets/img/susie_cover.png)
+
 
 ### Project: Data Engineering - Melbourne, Australia (Remote)
 Developed a web scraping script for product price comparison analysis and automated SEO improvement using AI.
