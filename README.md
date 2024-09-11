@@ -54,7 +54,7 @@
 - Taught Computer Science courses related to Data Science, using tools like Java, HTML, CSS, JavaScript, Python, SQL, Excel, and Power BI.
 
 ## Projects
-### Project Shipping Recommender
+### Azure OpenAI RAG Studio implementation
 Developed a fast implementation of the RAG approach utilizing Azure AI services and Azure AI search for Azure OpenAI chatbot development.
 ![image](/assets/img/Azure-OpenAI-RAG-demo-2.png)
 
