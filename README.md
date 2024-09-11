@@ -56,7 +56,7 @@
 ## Projects
 ### Project Shipping Recommender
 Developed a fast implementation of the RAG approach utilizing Azure AI services and Azure AI search for Azure OpenAI chatbot development.
-![image](/assets/img/freelance_1_cover.jpg)
+![image](/assets/img/Azure-OpenAI-RAG-demo-2.png)
 
 ### Project Shipping Recommender
 Developed a Fast API backend application utilizing Facebook's FAISS library for text similarity in recommending shipping prices.
