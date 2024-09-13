@@ -10,7 +10,7 @@
 
 
 ## Work Experience
-**AI Engineer @ CPRAS (Individual Contractor) (_July 2022 - Sept 2024_)**
+**AI Engineer @ Freelance (Individual Contractor) (_July 2022 - Sept 2024_)**
 - Developed OpenAI integration for enhanced information retrieval and interaction.
 - Implemented GPT-4 models to elevate language processing and understanding in various applications.
 - Developed a Retrieval Augmented Generation AI tool for UK environment councils.
