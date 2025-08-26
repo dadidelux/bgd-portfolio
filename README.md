@@ -9,13 +9,8 @@
 - B.S., Computer Science | Technological Institute of the Philippines (_Mar-2009_)  
 
 ## Work Experience
-**Data Intelligence Analyst @ Revolve (Fulltime) (_July 2024 - Present _)**
-- Developed OpenAI integration for enhanced information retrieval and interaction.
-- Implemented GPT-4 models to elevate language processing and understanding in various applications.
-- Developed a Retrieval Augmented Generation AI tool for UK environment councils.
-- Tools: Django Framework, Pinecone Vector Database, OpenAI Models, Python.
 
-**Data Scientist @ Adaca (Individual Contractor) (_April 2024 - Present (Bench) _)**
+**Data Scientist @ Adaca (Individual Contractor) (_April 2024 - June 2025 _)**
 - Soon to be Updated
   
 **AI Engineer @ CPRAS (Individual Contractor) (_July 2022 - Sept 2024_)**
